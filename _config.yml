@@ -8,7 +8,7 @@ middle_name:
 last_name: Moreira de Oliveira
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A website for Isabel Moreira de Oliveira to share her professional background.
+  Isabel's professional background.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -224,7 +224,6 @@ exclude:
   - package-lock.json
   - _pages/about_einstein.md
   - _pages/blog.md
-  - _pages/cv.md
   - _pages/dropdown.md
   - _pages/news.md
   - _pages/profiles.md
